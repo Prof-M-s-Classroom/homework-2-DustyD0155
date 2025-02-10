@@ -112,12 +112,6 @@ class LinkedList:
 
 
 
-
-
-# TODO : Write function insertatindex to insert a newnode at any given index. Consider all edge cases, including missing nodes.
-# TODO : Write fucntion deleteatindex to delete a newnode at any given index. COnsider all edge cases, including missing nodes.
-# Make sure to reuse existing function for the correct edge cases for both TODOs
-# Write appropriate test function below to test for the new functions.
 s1 = Spaceship("Voyager", 300)
 s2 = Spaceship("Enterprise", 300)
 s3 = Spaceship("Atlantis", 300)
